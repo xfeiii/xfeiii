@@ -1,16 +1,19 @@
-## Hi there 👋
+# Hey there! 👋
 
-<!--
-**xfeiii/xfeiii** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm **Fabio**, a designer based in Singapore 🇸🇬.
 
-Here are some ideas to get you started:
+I design and build things that make everyday life a little easier.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+If an idea feels useful, chances are I'll try to build it.
+
+My main tech stack is **HTML, CSS, React, TypeScript, and JavaScript**. My favorite tools are **Figma, VS Code, Codex, Claude, and Notion**.
+
+One of my projects is [ParkHereSG](https://www.parkheresg.com/) — built to make finding parking in Singapore a little easier.
+
+I've also built everything from browser extensions and personal dashboards to parking apps and voice AI experiments.
+
+**Fun Facts:**
+
+* I do content creation for others
+* I have a Pomeranian 🐶
+* I enjoy designing and building useful things
