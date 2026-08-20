@@ -4,8 +4,6 @@ I'm **Fabio**, a designer based in Singapore 🇸🇬.
 
 I design and build things that make everyday life a little easier.
 
-If an idea feels useful, chances are I'll try to build it.
-
 My main tech stack is **HTML, CSS, React, TypeScript, and JavaScript**. My favorite tools are **Figma, VS Code, Codex, Claude, and Notion**.
 
 One of my projects is [ParkHereSG](https://www.parkheresg.com/) — built to make finding parking in Singapore a little easier.
