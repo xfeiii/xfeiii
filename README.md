@@ -1,4 +1,4 @@
-# Hey there! 👋
+# Hi! 👋
 
 I'm **Fabio**, a designer based in Singapore 🇸🇬.
 
